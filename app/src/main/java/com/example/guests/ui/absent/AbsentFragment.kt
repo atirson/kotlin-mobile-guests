@@ -1,4 +1,4 @@
-package com.example.guests.ui.slideshow
+package com.example.guests.ui.absent
 
 import android.os.Bundle
 import android.view.LayoutInflater

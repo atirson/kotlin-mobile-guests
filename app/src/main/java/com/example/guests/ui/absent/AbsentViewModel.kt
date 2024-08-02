@@ -1,4 +1,4 @@
-package com.example.guests.ui.slideshow
+package com.example.guests.ui.absent
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

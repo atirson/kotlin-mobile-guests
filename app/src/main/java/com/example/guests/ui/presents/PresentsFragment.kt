@@ -1,4 +1,4 @@
-package com.example.guests.ui.gallery
+package com.example.guests.ui.presents
 
 import android.os.Bundle
 import android.view.LayoutInflater
