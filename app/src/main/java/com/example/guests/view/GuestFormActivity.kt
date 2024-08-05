@@ -1,14 +1,12 @@
-package com.example.guests
+package com.example.guests.view
 
 import android.os.Bundle
 import android.view.View
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import androidx.lifecycle.ViewModelProvider
+import com.example.guests.viewmodel.GuestFormViewModel
+import com.example.guests.R
 import com.example.guests.databinding.ActivityGuestFormBinding
-import com.example.guests.databinding.ActivityMainBinding
 
 class GuestFormActivity : AppCompatActivity(), View.OnClickListener {
 
